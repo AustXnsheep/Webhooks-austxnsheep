@@ -1,0 +1,5 @@
+name: DiscordWebhook
+version: '1.1'
+main: austxnsheep.srv.SRV
+api-version: 1.17
+author: austxnsheep
